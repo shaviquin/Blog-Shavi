@@ -11,7 +11,7 @@ import { useState } from "react";
 const User = () => {
     const user = true
 
-    const [profileOpen, setProfileOpen] = useState(true)
+    const [profileOpen, setProfileOpen] = useState(false)
 
     const close = () => {
         setProfileOpen(false)

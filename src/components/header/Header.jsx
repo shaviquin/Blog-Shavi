@@ -1,7 +1,7 @@
 import React from "react";
 import logo from "/logo.jpg";
 import "./Header.css";
-import { nav } from "../../assets/data/data/data";
+import { nav } from "../../assets/data/data";
 import { Link } from "react-router-dom/cjs/react-router-dom.min";
 import User from "../User";
 
