@@ -90,12 +90,12 @@ export const nav = [
   export const blog = [
     {
       id: 1,
-      title: "POST NO.1 CONTAINING A YOUTUBE VIDEO",
-      desc: "Quisque at tellus nec magna viverra euismod. Maecenas lobortis, nisl et sodales blandit, neque mi ullamcorper eros, id efficitur ex velit in ante. Suspendisse elementum congue lacus quis gravida. Nunc eu hendrerit risus. Quisque blandit, orci non maximus vulputate, ligula ante ornare enim, ac interdum lorem leo varius mauris. Aliquam non sem vel orci malesuada sagittis. Vivamus id ullamcorper tellus. In hac habitasse platea dictumst. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras et sapien a arcu feugiat mattis. Suspendisse sed magna quis turpis rhoncus venenatis.",
-      category: "Nature",
-      cover: "../images/blogs/b1.jpg",
-      date: "APRIL 05, 2018",
-    },
+      title: "KHEA, C.R.O y Neo Pistea sacan una canción de locos",
+      desc: 'KHEA, C.R.O y Neo Pistea han unido sus talentos para crear un verdadero hit que está arrasando en todas las plataformas. La canción "100oMIL" no solo ha conquistado los primeros lugares de las listas de reproducción, sino que también ha cautivado los corazones de miles de fanáticos en todo el mundo.\n\nLa colaboración entre estos artistas ha dado como resultado una melodía pegajosa y llena de energía que te atrapa desde el primer segundo. La voz única de KHEA, combinada con la versatilidad lírica de C.R.O y el ritmo inconfundible de Neo Pistea, crea una experiencia auditiva incomparable.\n\nNeo Pistea se roba el show con su parte en la canción, mostrando su habilidad para rimar con fluidez y su estilo único que lo distingue en la escena musical. Su participación agrega un toque especial a "100oMIL", haciendo que sea imposible resistirse a mover el cuerpo al ritmo de la música.\n\n¿Qué esperas para escuchar "100oMIL" de KHEA, C.R.O y Neo Pistea? ¡No te arrepentirás!',
+      category: "Music",
+      cover: "../images/blogs/kheapost.jpg",
+      date: "MARCH 22, 2024",
+    },    
   
     {
       id: 2,
